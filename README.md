@@ -1,6 +1,6 @@
 # Customer Segmentation using Unsupervised Machine Learning Algorithms- RFM - Kmeans Clustering
 
-We hav used-
+Algorithms used-
 
 * Meanshift
 * DBScan 
